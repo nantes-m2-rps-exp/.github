@@ -1,6 +1,6 @@
 # Various repositories for the Nantes RPS Master 2 Experimental Project
 
-Entry point for students should be the [qqbar2mumu-2023](https://github.com/nantes-m2-rps-exp/qqbar2mumu-2023) repository.
+Entry point for students should be the [qqbar2mumu-2024](https://github.com/nantes-m2-rps-exp/qqbar2mumu-2024) repository.
 
 The other repositories, in order of general usefulness (probably) :
 
